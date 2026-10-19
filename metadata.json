@@ -1,0 +1,8 @@
+{
+  "name": "Remix Lubna Akter Portfolio With 3D Animation ",
+  "description": "3D animated portfolio of Lubna Akter, 4th-Year B.Pharm student and pharmaceutical researcher specializing in pharmacology, drug design, and medical communications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

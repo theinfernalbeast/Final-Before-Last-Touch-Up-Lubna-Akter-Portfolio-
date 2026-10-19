@@ -1,0 +1,17 @@
+{
+  "name": "Lubna Akter - Portfolio & Clinical Researcher",
+  "short_name": "Lubna Akter",
+  "description": "Professional Portfolio of Lubna Akter - Pharmacy Student, Pharmaceutical Researcher, and Clinical Science Scholar.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='128' fill='%230f172a' stroke='%23a855f7' stroke-width='16'/%3E%3Cpath d='M160 352V160h64c35.2 0 64 28.8 64 64s-28.8 64-64 64h-32v64h-32zm32-96h32c17.6 0 32-14.4 32-32s-14.4-32-32-32h-32v64z' fill='%23a855f7'/%3E%3Cpath d='M264 264l88 88m-8-88l-72 88' stroke='%23c084fc' stroke-width='28' stroke-linecap='round'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
